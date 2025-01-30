@@ -25,7 +25,7 @@ jobs:
         dotnet-version: '8.x'
 
     - name: Restore dependencies
-      run: dotnet restore ${{ github.workspace }}
+      run: dotnet restore APItempoDIO/APItempoDIO.sln
 
     - name: Build
-      run: dotnet build ${{ github.workspace }} --configuration Release
+      run: dotnet build APItempoDIO/APItempoDIO.sln --configuration Release
