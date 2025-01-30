@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thais\\Downloads\\projects-dio\\APItempoDIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181A13DA-8B22-4125-933A-CAAEB9569259}|APItempoDIO\\APItempoDIO.csproj|c:\\users\\thais\\downloads\\projects-dio\\apitempodio\\apitempodio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{181A13DA-8B22-4125-933A-CAAEB9569259}|APItempoDIO\\APItempoDIO.csproj|solutionrelative:apitempodio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\thais\\Downloads\\projects-dio\\APItempoDIO\\APItempoDIO\\Dockerfile",
+              "RelativeDocumentMoniker": "APItempoDIO\\Dockerfile",
+              "ToolTip": "C:\\Users\\thais\\Downloads\\projects-dio\\APItempoDIO\\APItempoDIO\\Dockerfile",
+              "RelativeToolTip": "APItempoDIO\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T17:18:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
